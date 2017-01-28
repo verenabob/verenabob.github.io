@@ -14,15 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Viecherlhochzeit
+title: "Verena ∞ Robert"
 
 # Short description of your site
-description: Ja, ich will!
+#description: Ja, ich will!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+ Deutsch: ""
  English: "en"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -38,7 +39,7 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Verena & Robert West
+  name: Verena & Robert
   email: "robert.bob.west@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -111,7 +112,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+# paginate: 5
 
 kramdown:
   input: GFM
@@ -198,7 +199,7 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 gems:
-  - jekyll-paginate
+  #- jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
