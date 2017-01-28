@@ -53,4 +53,7 @@ Falls Ihr eine ganze Wohnung mieten wollt, könnt Ihr auch auf [Airbnb](http://w
 
 Außerdem haben wir vorsorglich eine [Suite](http://www.seewirts-strandhaus.de/%C3%BCbernachten-am-see/) direkt am Strandhaus reserviert. Dort passen 8 Leute hinein. Falls Ihr Interesse habt, dort zu übernachten, gebt uns Bescheid!
 
-### Wir freuen uns auf Euch!
+<center>
+<img src="/img/suess.jpg" style="height:200px; border-radius:50%; box-shadow: 0 0 8px rgba(0, 0, 0, .8); -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8); -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);" />
+<h3>Wir freuen uns auf Euch!</h3>
+</center>

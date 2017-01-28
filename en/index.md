@@ -64,4 +64,7 @@ Munich, an hour away, is a city of 1.5 million, with famous (but mediocre) beers
 
 And if you venture just across the border into Austria, there's the city of [Salzburg](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB&gws_rd=cr&ei=u9SMWLjfLMGMUeCgkgg#tbm=isch&q=salzburg), the gem that gave birth to Mozart (and The Sound of Music).
 
-### We're looking forward to seeing you!
+<center>
+<img src="/img/suess.jpg" style="height:200px; border-radius:50%; box-shadow: 0 0 8px rgba(0, 0, 0, .8); -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8); -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);" />
+<h3>We look forward to seeing you!</h3>
+</center>
