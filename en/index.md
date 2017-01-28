@@ -36,7 +36,7 @@ Both places are marked in the map below.
 
 # Getting there
 
-By **car,** Prien is easily reachable from Munich on the Autobahn A8 (vrooooommm) in the direction of Salzburg. There are several parking lots within a few minutes' walk from the church ([map here](https://drive.google.com/open?id=1T4qFkugoK_aIpqnMXEXYKNWXvZg&usp=sharing)).
+By **car,** Prien is easily reachable from Munich on the Autobahn A8 (vrooooommm) in the direction of Salzburg. There are several parking lots within a few minutes' walk from the church ([map here](https://drive.google.com/open?id=1T4qFkugoK_aIpqnMXEXYKNWXvZg&usp=sharing), might work on desktop only).
 
 Arriving by **train** is easy, too. It takes about one hour from Munich to Prien.
 
