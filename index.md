@@ -13,7 +13,7 @@ Tragt Euch deshalb bitte hier ein:
 
 <center>
 <div style="height:603px;width:100%;max-width:600px;min-width:330px;overflow:hidden;border:1px solid black">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ux5A88w6fioyOqDHQrBKCNLsl_9LjnUrIe_43NUxSoLiig/viewform" scrolling="no" style="margin-left:-40px;margin-right:-50px;margin-top:-280px;height: 1300px; overflow:hidden; width:660px" frameborder="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4Ux5A88w6fioyOqDHQrBKCNLsl_9LjnUrIe_43NUxSoLiig/viewform" scrolling="no" style="margin-left:-40px;margin-right:-50px;margin-top:-280px;height: 1300px; overflow:hidden; width: 670px" frameborder="0">Loading...</iframe>
 </div>
 </center>
 (Falls das Formular nicht richtig angezeigt wird, könnt Ihr es auch [hier](https://docs.google.com/forms/d/e/1FAIpQLSd4Ux5A88w6fioyOqDHQrBKCNLsl_9LjnUrIe_43NUxSoLiig/viewform) ausfüllen)
