@@ -68,3 +68,4 @@ And if you venture just across the border into Austria, there's the city of [Sal
 <img src="/img/suess.jpg" style="height:200px; border-radius:50%; box-shadow: 0 0 8px rgba(0, 0, 0, .8); -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8); -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);" />
 <h3>We look forward to seeing you!</h3>
 </center>
+
