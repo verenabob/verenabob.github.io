@@ -62,7 +62,7 @@ The [Alps](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=102
 
 Munich, an hour away, is a city of 1.5 million, with famous (but mediocre) beers, famous (and fantastic) [beer halls](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB#tbm=isch&q=hofbr%C3%A4uhaus+m%C3%BCnchen), shady [beer gardens](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB#tbm=isch&q=biergarten+m%C3%BCnchen), and [inner-city surfing](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB#tbm=isch&q=eisbachwelle+m%C3%BCnchen).
 
-And if you venture just across the border into Austria, there's the city of [Salzburg](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB&gws_rd=cr&ei=u9SMWLjfLMGMUeCgkgg#tbm=isch&q=salzburg), the gem that gave birth to Mozart (and The Sound of Music).
+And if you venture just across the border into Austria, there's the city of [Salzburg](https://www.google.de/search?q=k%C3%B6nigssee&espv=2&biw=1617&bih=1020&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC7qmTreXRAhWrDMAKHfOKCrEQ_AUIBigB&gws_rd=cr&ei=u9SMWLjfLMGMUeCgkgg#tbm=isch&q=salzburg), the gem that gave birth to Mozart (and to The Sound of Music).
 
 <center>
 <img src="/img/suess.jpg" style="height:200px; border-radius:50%; box-shadow: 0 0 8px rgba(0, 0, 0, .8); -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8); -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);" />
