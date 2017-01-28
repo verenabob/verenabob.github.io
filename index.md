@@ -37,7 +37,7 @@ Beide Orte sind in folgender Karte eingetragen.
 
 # Anfahrt
 
-Mit dem **Auto** ist Prien leicht über die Autobahn A8 Richtung Salzburg zu erreichen. Es gibt einige Parkplätze, von denen aus man binnen wenigen Minuten zu Fuß an der Kirche anlangt ([Karte hier](https://drive.google.com/open?id=1T4qFkugoK_aIpqnMXEXYKNWXvZg&usp=sharing), funktioniert evtl. nicht mit dem Handy).
+Mit dem **Auto** ist Prien leicht über die Autobahn A8 Richtung Salzburg zu erreichen. Es gibt einige Parkplätze, von denen aus man binnen wenigen Minuten zu Fuß an der Kirche anlangt ([Karte hier](https://drive.google.com/open?id=1T4qFkugoK_aIpqnMXEXYKNWXvZg&usp=sharing), funktioniert evtl. nicht auf Handy).
 
 Mit dem **Zug** schafft man es von München in einer Stunde nach Prien.
 
