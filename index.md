@@ -10,7 +10,7 @@ Und wir hoffen, dass auch Ihr ja sagt --- wenn Ihr unsere Einladung kriegt.
 
 Damit es dazu kommen kann, brauchen wir aber erst Eure Anschrift.
 Tragt Euch deshalb bitte in folgendes Formular ein.
-(Falls das Formular nicht richtig angezeigt wird, wenn z. B. der Knopf zum Absenden fehlt, könnt Ihr es auch [hier](https://docs.google.com/forms/d/e/1FAIpQLSd4Ux5A88w6fioyOqDHQrBKCNLsl_9LjnUrIe_43NUxSoLiig/viewform) ausfüllen.)
+(Falls das Formular nicht richtig angezeigt wird, wenn z.&nbsp;B. der Knopf zum Absenden fehlt, könnt Ihr es auch [hier](https://docs.google.com/forms/d/e/1FAIpQLSd4Ux5A88w6fioyOqDHQrBKCNLsl_9LjnUrIe_43NUxSoLiig/viewform) ausfüllen.)
 
 <center>
 <div style="height:603px;width:100%;max-width:600px;min-width:330px;overflow:hidden;border:1px solid black">
@@ -41,13 +41,13 @@ Mit dem **Auto** ist Prien leicht über die Autobahn A8 Richtung Salzburg zu err
 
 Mit dem **Zug** schafft man es von München in einer Stunde nach Prien.
 
-Unsere Gäste aus Übersee (d. h. Übersee in Übersee, nicht Übersee am Chiemsee...) nehmen am besten einen **Flug** nach München (MUC) und kommen von dort per Auto oder Zug nach Prien (siehe oben).
+Unsere Gäste aus Übersee (d.&nbsp;h. Übersee in Übersee, nicht Übersee am Chiemsee...) nehmen am besten einen **Flug** nach München (MUC) und kommen von dort per Auto oder Zug nach Prien (siehe oben).
 
 # Unterkünfte
 
-Die Gegend rund um den Chiemsee lebt vom Tourismus, es sollte also kein Problem sein, ein Hotel zu finden, z. B. über [Booking.com](http://www.booking.com).
+Die Gegend rund um den Chiemsee lebt vom Tourismus, es sollte also kein Problem sein, ein Hotel zu finden, z.&nbsp;B. über [Booking.com](http://www.booking.com).
 
-Direkt neben dem Strandhaus (wo die Feier stattfindet) befindet sich z. B. das [Hotel Chiemgauhof](http://www.chiemgauhof.com/chiemgauhof.html).
+Direkt neben dem Strandhaus (wo die Feier stattfindet) befindet sich z.&nbsp;B. das [Hotel Chiemgauhof](http://www.chiemgauhof.com/chiemgauhof.html).
 
 Falls Ihr eine ganze Wohnung mieten wollt, könnt Ihr auch auf [Airbnb](http://www.airbnb.com/) suchen.
 
