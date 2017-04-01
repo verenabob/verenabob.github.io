@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verena & Robert
+title: Verena ∞ Robert
 # subtitle: ...
 use-site-title: true
 bigimg: /img/Chiemsee-Panorama_CROPPED.jpg
