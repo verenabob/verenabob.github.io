@@ -8,6 +8,8 @@ bigimg: /img/Chiemsee-Panorama_CROPPED.jpg
 
 # Deutsch
 
+Nach über einem halben Jahr hier endlich Fotos von unserer Hochzeit!
+
 - [Offizielle Fotos der Fotografin](https://photos.app.goo.gl/yfHGDa7x4amJ0Ncv2)
 - [Fotobox](https://photos.app.goo.gl/Qibt8n8R45cBKCXC2)
 - [Überraschung](https://www.dropbox.com/s/a9cjcyz4fz09le5/2017_05_20%20Hochzeitsvideo_Robert%26Verena_Endversion.mp4?dl=0)
@@ -20,6 +22,8 @@ Falls Ihr noch Bilder oder Videos auf Eurem Telefon, Eurer Kamera oder Eurem Com
 Ihr würdet uns eine Riesenfreude damit machen!
 
 # English
+
+After more than half a year, finally some photos from our wedding!
 
 - [Official photographer's pictures](https://photos.app.goo.gl/yfHGDa7x4amJ0Ncv2)
 - [Photo box](https://photos.app.goo.gl/Qibt8n8R45cBKCXC2)
